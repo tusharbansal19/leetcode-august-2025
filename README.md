@@ -1,5 +1,9 @@
 ﻿# leetcode-august-2025
 
+
+
+a complte table to show my consistency:
+
 | 📆 Date    | 🧠 Topic / Tag      | 🧩 Problem Name / Link                                                                            | 💡 Approach Used          | ✅ Status      |
 | ---------- | ------------------- | ------------------------------------------------------------------------------------------------- | ------------------------- | ------------- |
 | 2025-08-01 | Binary Search       | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                         | Binary Search on Answer   | ✅ Solved      |
@@ -9,3 +13,4 @@
 | 2025-08-05 | Segment Tree        | \[Unplaced Fruits 🧪 (Custom)]                                                                    | Segment Tree Matching     | ✅ Solved      |
 | 2025-08-06 | DP on Grid          | [Count Square Submatrices](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | 1D Optimized DP           | ✅ Solved      |
 | 2025-08-07 | Bitmask DP          | [Count Number of Squareful Arrays](https://leetcode.com/problems/squareful-arrays/)               | Bitmask DP                | 🔁 Revisiting |
+

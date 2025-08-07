@@ -12,5 +12,5 @@ a complte table to show my consistency:
 | 2025-08-04 | Dynamic Programming | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                                 | DP with Circular Handling | ✅ Solved      |
 | 2025-08-05 | Segment Tree        | \[Unplaced Fruits 🧪 (Custom)]                                                                    | Segment Tree Matching     | ✅ Solved      |
 | 2025-08-06 | DP on Grid          | [Count Square Submatrices](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | 1D Optimized DP           | ✅ Solved      |
-| 2025-08-07 | Bitmask DP          | [Count Number of Squareful Arrays](https://leetcode.com/problems/squareful-arrays/)               | Bitmask DP                | 🔁 Revisiting |
+| 2025-08-07 | Dynamic Programming | [3363. Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/) | Multi-Agent DP | ✅ Solved |
 

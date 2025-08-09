@@ -58,3 +58,5 @@ bool check(int i,int l, int r, int val,vector<int>&seg )
         return c;
     }
 };
+// Time Complexity: O(nlog(n))
+// Space Complexity: O(4n)

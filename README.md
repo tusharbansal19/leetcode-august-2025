@@ -16,3 +16,5 @@ a complte table to show my consistency:
 | 2025-08-08 | Dynamic Programming | [808. Soup Servings](https://leetcode.com/problems/soup-servings/)                                                              | Probability DP + Memoization           | ✅ Solved |
 | 2025-08-09 | Bit Manipulation    | [231. Power of Two](https://leetcode.com/problems/power-of-two/)                                                                | Bitwise AND Check                      | ✅ Solved |
 | 2025-08-10 | Math + Permutations | [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)                                                | Permutation Check + Set of Powers of 2 | ✅ Solved |
+| 2025-08-11 | Math + Prefix Product | [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/) | Bit Manipulation + Prefix Product + Modulo | ✅ Solved |
+

@@ -17,8 +17,13 @@ a complte table to show my consistency:
 | 2025-08-09 | Bit Manipulation    | [231. Power of Two](https://leetcode.com/problems/power-of-two/)                                                                | Bitwise AND Check                      | ✅ Solved |
 | 2025-08-10 | Math + Permutations | [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)                                                | Permutation Check + Set of Powers of 2 | ✅ Solved |
 | 2025-08-11 | Math + Prefix Product | [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/) | Bit Manipulation + Prefix Product + Modulo | ✅ Solved |
+| 📆 Date    | 🧠 Topic / Tag     | 🧩 Problem Name / Link                                                                                                          | 💡 Approach Used                           | ✅ Status |
+| 2025-08-12 | DP + Math (Powers) | [2787. Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | DP (1D Array) + Precompute Powers + Modulo | ✅ Solved |
+
+
 <<<<<<< HEAD
 =======
 
 
 >>>>>>> da680bf010afddff5b67f586101d50b472a01675
+

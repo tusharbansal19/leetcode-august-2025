@@ -20,7 +20,7 @@ a complte table to show my consistency:
 | 2025-08-12 | DP + Math (Powers) | [2787. Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | DP (1D Array) + Precompute Powers + Modulo | ✅ Solved |
 | 2025-08-13 | Math + Recursion | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | Math (Repeated Division) / Recursion | ✅ Solved |
 | 📆 Date    | 🧠 Topic / Tag          | 🧩 Problem Name / Link                                                                                              | 💡 Approach Used                           | ✅ Status |
-| 2025-08-13 | String + Sliding Window | [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | String Traversal + Count Consecutive Chars | ✅ Solved |
+| 2025-08-14 | String + Sliding Window | [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | String Traversal + Count Consecutive Chars | ✅ Solved |
 
 
 <<<<<<< HEAD
@@ -28,6 +28,7 @@ a complte table to show my consistency:
 
 
 >>>>>>> da680bf010afddff5b67f586101d50b472a01675
+
 
 
 

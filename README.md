@@ -20,6 +20,10 @@ a complte table to show my consistency:
 | 2025-08-12 | DP + Math (Powers) | [2787. Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | DP (1D Array) + Precompute Powers + Modulo | ✅ Solved |
 | 2025-08-13 | Math + Recursion | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | Math (Repeated Division) / Recursion | ✅ Solved |
 | 2025-08-14 | String + Sliding Window | [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | String Traversal + Count Consecutive Chars | ✅ Solved |
+| 2025-08-20 | DP + Matrix | [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Dynamic Programming on Submatrices | ✅ Solved |
+| 2025-08-20 | Prefix Sum + Sliding Window | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | Counting Consecutive Zeros + Formula | ✅ Solved |
+| 2025-08-20 | Greedy + Math | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Digit Manipulation (Greedy Replacement) | ✅ Solved |
+
 
 
 <<<<<<< HEAD
@@ -27,6 +31,7 @@ a complte table to show my consistency:
 
 
 >>>>>>> da680bf010afddff5b67f586101d50b472a01675
+
 
 
 

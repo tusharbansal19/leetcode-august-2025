@@ -23,6 +23,7 @@ a complte table to show my consistency:
 | 2025-08-20 | Greedy + Math | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Digit Manipulation (Greedy Replacement) | ✅ Solved |
 | 2025-08-20 | Prefix Sum + Sliding Window | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | Counting Consecutive Zeros + Formula | ✅ Solved |
 | 2025-08-20 | DP + Matrix | [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Dynamic Programming on Submatrices | ✅ Solved |
+| 2025-08-22 | Geometry + Matrix | [3195. Find the Minimum Area to Cover All Ones](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones/) | Computing Bounding Rectangle for 1s | ✅ Solved |
 
 
 
@@ -33,6 +34,7 @@ a complte table to show my consistency:
 
 
 >>>>>>> da680bf010afddff5b67f586101d50b472a01675
+
 
 
 

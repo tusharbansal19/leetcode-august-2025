@@ -1,23 +1,37 @@
+#include <vector>
+#include <iostream>
+using namespace std;
+
 class Solution {
 public:
-bool valid(int r, int c, char d, vector<vector<char>>& nm){
-    for(int i=0;i<9;i++){
-        if(nm[r][i]==d||nm[i][c]==d)
-        return 0;
-    }
-        int t=(r/3)*3, l=(c/3)*3;
-        for(int i=0;i<3;i++){
-            for(int j=0;j<3;j++){
-                if(nm[i+t][j+l]==d)
-                return 0;
+    // Function to check if a digit is valid in the current position
+    bool valid(int row, int col, char digit, vector<vector<char>>& board) {
+        // Check row
+        for(int x = 0; x < 9; x++) {
+            if(board[row][x] == digit) return false;
+        }
+        
+        // Check column
+        for(int x = 0; x < 9; x++) {
+            if(board[x][col] == digit) return false;
+        }
+        
+        // Check 3x3 box
+        int startRow = row - row % 3;
+        int startCol = col - col % 3;
+        for(int i = 0; i < 3; i++) {
+            for(int j = 0; j < 3; j++) {
+                if(board[i + startRow][j + startCol] == digit) 
+                    return false;
             }
         }
-    return 1;
-}
-    bool solve(int r, int c, vector<vector<char>>& nm) {
-        if (r == 9) return true; // Completed the board
-
-        if (c == 9) // Move to next row
+        
+        return true;
+    }
+    
+    bool solve(vector<vector<char>>& board, int row = 0, int col = 0) {
+        // If we've filled all cells, puzzle is solved
+        if(row == 9) return true;
             return solve(r + 1, 0, nm);
 
         if (nm[r][c] != '.') // Skip filled cells

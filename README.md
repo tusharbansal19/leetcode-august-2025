@@ -25,7 +25,10 @@ a complte table to show my consistency:
 | 2025-08-20 | DP + Matrix | [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Dynamic Programming on Submatrices | ✅ Solved |
 | 2025-08-22 | Geometry + Matrix | [3195. Find the Minimum Area to Cover All Ones](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones/) | Computing Bounding Rectangle for 1s | ✅ Solved |
 | 2025-08-17 | Backtracking + Math | [679. 24 Game](https://leetcode.com/problems/24-game/) | Recursion with Permutations and Floating Precision Handling | ✅ Solved |
+| 2025-08-30 | hash-map | 36. Valid Sudoku | map to check new visit | ✅ Solved |
 | 2025-08-31 | Backtracking + DFS | 37. Sudoku Solver | Backtracking with row/col/3x3-box validation, recursion and in-place backtracking/pruning | ✅ Solved |
+
+2025-08-30	Hashing + Sets	36. Valid Sudoku	Encode row/column/3x3-box entries as strings in an unordered_set to detect duplicates	✅ Solved
 
 
 
@@ -35,6 +38,7 @@ a complte table to show my consistency:
 
 
 >>>>>>> da680bf010afddff5b67f586101d50b472a01675
+
 
 
 
